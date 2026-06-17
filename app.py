@@ -60,7 +60,18 @@ MARKETS: Dict[str, str] = {
     "Gold": "GC=F",
     "Silver": "SI=F",
     "Oil": "CL=F",
+    "Brent Oil": "BZ=F",
+    "Natural Gas": "NG=F",
     "Copper": "HG=F",
+    "Platinum": "PL=F",
+    "Palladium": "PA=F",
+    "Coffee": "KC=F",
+    "Cocoa": "CC=F",
+    "Corn": "ZC=F",
+    "Wheat": "ZW=F",
+    "Soybeans": "ZS=F",
+    "Orange Juice": "OJ=F",
+    "Sugar": "SB=F",
 }
 
 PERFORMANCE_MARKET_NAMES = {
